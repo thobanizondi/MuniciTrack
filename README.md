@@ -13,6 +13,8 @@ Validation: Ensures complete and accurate submissions.
 
 Issue Management: View and manage all reported issues
 
+
+
 Technologies Used
 
 Technology  - Purpose 
@@ -22,6 +24,8 @@ C# (.NET WinForms) - UI and application logic
 Windows Forms - Desktop interface 
 
 OpenFileDialog - File upload functionality 
+
+
 
 Installation
 
@@ -34,6 +38,8 @@ Build and run the project:
 Make sure .NET Framework is installed.
 
 Press F5 to launch the app.
+
+
 
 Usage
 
@@ -53,6 +59,7 @@ Screenshots
 You can add screenshots here once available.
 
 
+
 Future Enhancements
 
 Cloud sync for remote issue tracking.
@@ -62,6 +69,9 @@ Mobile version using .NET MAUI.
 Map integration for geolocation tagging.
 
 Export issues to PDF or Excel.
+
+
+
 
 Author
 
